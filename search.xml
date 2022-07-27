@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>readme</title>
+      <link href="/2022/07/25/readme/"/>
+      <url>/2022/07/25/readme/</url>
+      
+        <content type="html"><![CDATA[<h1 id="This-is-a-README"><a href="#This-is-a-README" class="headerlink" title="This is a README"></a>This is a README</h1><h3 id="Hexo基本命令"><a href="#Hexo基本命令" class="headerlink" title="Hexo基本命令"></a>Hexo基本命令</h3><ul><li>hexo s 启动本地服务器（本地预览）</li><li>hexo server -p 5000 更改访问端口</li><li>hexo clean 清除缓存</li><li>hexo g 生成静态网页</li><li>hexo d 自动生成网站静态文件，并将本地数据部署到设定仓库</li><li>hexo new ‘文章’</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> readme </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
